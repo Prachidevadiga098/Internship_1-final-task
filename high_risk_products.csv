@@ -1,0 +1,6 @@
+order_id,order_date,product_id_x,category,supplier,price,region,product_id_y,return_date,return_reason,is_returned,return_probability
+O1003,2023-06-15,P105,Books,Supplier A,100.05,South,P105,2023-03-01,Damaged,1,0.5085252925624116
+O1027,2023-04-12,P109,Electronics,Supplier A,96.59,North,,,,0,0.5212840199421442
+O1055,2023-02-22,P110,Electronics,Supplier A,130.77,South,,,,0,0.5087167016523815
+O1081,2023-01-12,P106,Electronics,Supplier A,104.54,North,,,,0,0.5183627796849961
+O1090,2023-03-06,P107,Electronics,Supplier A,107.97,West,,,,0,0.5171020212156228
